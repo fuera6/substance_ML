@@ -27,6 +27,6 @@
 ## Directories & Files
 * substance_adb: AdaBoost 모델 코드
 * substance_catboost: CatBoost 모델 코드
-* substance_lgb: LightGBM 모델 코드
+* substance_lgbm: LightGBM 모델 코드
 * substance_rf: Random Forest 모델 코드
-* substance_XGB: XGBoost 모델 코드
+* substance_xgb: XGBoost 모델 코드
